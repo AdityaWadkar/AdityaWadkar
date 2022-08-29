@@ -1,4 +1,4 @@
-[![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/10/cloud-computing-GIF.gif)](https://AdityaWadkar.io)
+[![MasterHead](banner.gif)](https://AdityaWadkar.io)
 <h1 align="center">Hi 👋, I'm Aditya Wadkar</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
