@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **Wadkaraditya923@gmail.com**
 
+[![@aditya_wadkar's Holopin board](https://holopin.me/aditya_wadkar)](https://holopin.io/@aditya_wadkar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-wadkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-wadkar/" height="30" width="40" /></a>
