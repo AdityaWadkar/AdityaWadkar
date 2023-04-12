@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Project Fake News Detection Using Various Classification Models](https://youtu.be/tBDj_21L618)
+- 🔭 I’m currently working on [different models to create chatgpt clone](https://youtu.be/tBDj_21L618)
 
 - 🌱 I’m currently learning **Flutter,Tenserflow,PyTorch**
 
